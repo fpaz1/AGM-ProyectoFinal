@@ -1,0 +1,433 @@
+.mediaViewInfo {
+    --web-view-name: Web 1920 – 5;
+    --web-view-id: Web_1920__5;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Web_1920__5;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Web_1920__5 {
+    position: absolute;
+    width: 1920px;
+    height: 1423px;
+    background-color: rgba(255,246,247,1);
+    overflow: hidden;
+    --web-view-name: Web 1920 – 5;
+    --web-view-id: Web_1920__5;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+#Rectangle_9 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_9 {
+    position: absolute;
+    overflow: visible;
+    width: 583px;
+    height: 66px;
+    left: 377px;
+    top: 47px;
+}
+#Icon_feather-search {
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    left: 901px;
+    top: 66px;
+    overflow: visible;
+}
+#Path_2 {
+    fill: transparent;
+    stroke: rgba(0,0,0,1);
+    stroke-width: 3px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_2 {
+    overflow: visible;
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Path_3 {
+    fill: transparent;
+    stroke: rgba(0,0,0,1);
+    stroke-width: 3px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_3 {
+    overflow: visible;
+    position: absolute;
+    width: 10.768px;
+    height: 10.768px;
+    left: 20.475px;
+    top: 20.475px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Buscar {
+    left: 407px;
+    top: 40px;
+    position: absolute;
+    overflow: visible;
+    width: 100px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(17,17,17,1);
+}
+#search{
+    position:relative;
+    width: 500px;
+    height: 50px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+input{
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: large;
+    border: 3px solid #555;
+}
+#Image_11 {
+    position: absolute;
+    width: 144px;
+    height: 135px;
+    left: 61px;
+    top: 12px;
+    overflow: visible;
+}
+#Mask_Group_7 {
+    position: absolute;
+    width: 364px;
+    height: 321px;
+    left: 1303px;
+    top: 263px;
+    overflow: visible;
+}
+#Iniciar_Sesion {
+    left: 1672px;
+    top: 64px;
+    position: absolute;
+    overflow: visible;
+    width: 157px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(13,12,12,1);
+}
+#Rectangle_23 {
+    fill: rgba(93,34,90,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_23 {
+    position: absolute;
+    overflow: visible;
+    width: 1803px;
+    height: 293px;
+    left: 76px;
+    top: 1090px;
+}
+#Terminos_y_Condiciones {
+    left: 442px;
+    top: 1162px;
+    position: absolute;
+    overflow: visible;
+    width: 349px;
+    height: 40px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#Politicas_de_Privacidad {
+    left: 432px;
+    top: 1212px;
+    position: absolute;
+    overflow: visible;
+    width: 342px;
+    height: 40px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#Acerca_de {
+    left: 179px;
+    top: 1156px;
+    position: absolute;
+    overflow: visible;
+    width: 139px;
+    height: 40px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#Blog {
+    left: 175px;
+    top: 1212px;
+    position: absolute;
+    overflow: visible;
+    width: 104px;
+    height: 40px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#Servicios {
+    left: 175px;
+    top: 1268px;
+    position: absolute;
+    overflow: visible;
+    width: 147px;
+    height: 40px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#Soporte {
+    left: 830px;
+    top: 1168px;
+    position: absolute;
+    overflow: visible;
+    width: 133px;
+    height: 49px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#Contacto {
+    left: 825px;
+    top: 1212px;
+    position: absolute;
+    overflow: visible;
+    width: 143px;
+    height: 49px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#Icon_awesome-facebook-f {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-facebook-f {
+    overflow: visible;
+    position: absolute;
+    width: 19.281px;
+    height: 36px;
+    left: 1415.359px;
+    top: 1162px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-twitter {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-twitter {
+    overflow: visible;
+    position: absolute;
+    width: 36px;
+    height: 29.239px;
+    left: 1481px;
+    top: 1168.761px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-instagram {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-instagram {
+    overflow: visible;
+    position: absolute;
+    width: 41.641px;
+    height: 38.739px;
+    left: 1557.203px;
+    top: 1164.131px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_simple-gmail {
+    fill: rgba(255,255,255,1);
+}
+.Icon_simple-gmail {
+    overflow: visible;
+    position: absolute;
+    width: 36px;
+    height: 27px;
+    left: 1638px;
+    top: 1169px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#n_022_Todos_los_derechos_reser {
+    left: 1249px;
+    top: 1217px;
+    position: absolute;
+    overflow: hidden;
+    width: 590px;
+    height: 39px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#Group_11 {
+    position: absolute;
+    width: 228px;
+    height: 66px;
+    left: 1211px;
+    top: 48px;
+    overflow: visible;
+}
+#Rectangle_3 {
+    fill: rgba(255,87,87,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_3 {
+    position: absolute;
+    overflow: visible;
+    width: 228px;
+    height: 66px;
+    left: 0px;
+    top: 0px;
+}
+#Canciones {
+    left: 55px;
+    top: 17px;
+    position: absolute;
+    overflow: visible;
+    width: 119px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Todos_las_Canciones {
+    left: 76px;
+    top: 200px;
+    position: absolute;
+    overflow: visible;
+    width: 395px;
+    height: 53px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: rgba(17,17,17,1);
+}
+
+#Lorem_ipsum__dolor_sit_ametcon {
+    left: 248px;
+    top: 276px;
+    position: absolute;
+    overflow: visible;
+    width: 318px;
+    height: 583px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(17,17,17,1);
+}
+#Lorem_ipsum__dolor_sit_ametcon_bc {
+    left: 819px;
+    top: 276px;
+    position: absolute;
+    overflow: visible;
+    width: 318px;
+    height: 583px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(17,17,17,1);
+}
+#Lorem_ipsum__dolor_sit_ametcon_bd {
+    left: 1390px;
+    top: 276px;
+    position: absolute;
+    overflow: visible;
+    width: 318px;
+    height: 583px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(17,17,17,1);
+}
+#Artistas {
+    left: 1513px;
+    top: 63px;
+    position: absolute;
+    overflow: visible;
+    width: 91px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(13,12,12,1);
+}
