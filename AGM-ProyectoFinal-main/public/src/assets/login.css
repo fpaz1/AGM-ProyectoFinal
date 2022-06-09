@@ -1,0 +1,481 @@
+.mediaViewInfo {
+    --web-view-name: Web 1920 – 2;
+    --web-view-id: Web_1920__2;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Web_1920__2;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Web_1920__2 {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    background-color: rgba(255,246,247,1);
+    overflow: hidden;
+    --web-view-name: Web 1920 – 2;
+    --web-view-id: Web_1920__2;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+#Artistas {
+    left: 1509px;
+    top: 60px;
+    position: absolute;
+    overflow: visible;
+    width: 91px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(17,17,17,1);
+}
+#Rectangle_9 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_9 {
+    position: absolute;
+    overflow: visible;
+    width: 583px;
+    height: 66px;
+    left: 377px;
+    top: 47px;
+}
+#Icon_feather-search {
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    left: 901px;
+    top: 66px;
+    overflow: visible;
+}
+#Path_2 {
+    fill: transparent;
+    stroke: rgba(0,0,0,1);
+    stroke-width: 3px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_2 {
+    overflow: visible;
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Path_3 {
+    fill: transparent;
+    stroke: rgba(0,0,0,1);
+    stroke-width: 3px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_3 {
+    overflow: visible;
+    position: absolute;
+    width: 10.768px;
+    height: 10.768px;
+    left: 20.475px;
+    top: 20.475px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Buscar {
+    left: 407px;
+    top: 40px;
+    position: absolute;
+    overflow: visible;
+    width: 100px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(17,17,17,1);
+}
+#Image_11 {
+    position: absolute;
+    width: 144px;
+    height: 135px;
+    left: 61px;
+    top: 12px;
+    overflow: visible;
+}
+#Image_1 {
+    position: absolute;
+    width: 984px;
+    height: 576px;
+    left: 880px;
+    top: 184px;
+    overflow: visible;
+}
+#Image_18 {
+    position: absolute;
+    width: 899px;
+    height: 576px;
+    left: 61px;
+    top: 184px;
+    overflow: visible;
+}
+#Inicia_Sesion {
+    left: 317px;
+    top: 224px;
+    position: absolute;
+    overflow: visible;
+    width: 389px;
+    height: 80px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgb(8, 8, 8);
+}
+
+button{
+
+background-color:#FF5757;
+-webkit-border-radius: 28;
+-moz-border-radius: 28;
+border-radius: 28px;
+font-size: 25px;
+line-height: 50px;
+text-align: center;
+width: 200px;
+height: 50px;
+color: #FFFFFF;
+font-weight: bold;
+font-family: Segoe UI;
+
+
+}
+label{
+    
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(8, 8, 8);
+
+}
+input{
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: large;
+    border: 3px solid #555;
+}
+#search{
+    position:relative;
+    width: 500px;
+    height: 50px;
+        -webkit-border-radius: 10px;
+        border-radius: 10px;
+}
+#Group_7 {
+    position: absolute;
+    width: 228px;
+    height: 66px;
+    left: 1636px;
+    top: 47px;
+    overflow: visible;
+}
+#Rectangle_3 {
+    fill: rgba(255,87,87,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_3 {
+    position: absolute;
+    overflow: visible;
+    width: 228px;
+    height: 66px;
+    left: 0px;
+    top: 0px;
+}
+#Iniciar_Sesion {
+    left: 36px;
+    top: 17px;
+    position: absolute;
+    overflow: visible;
+    width: 157px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Olvide_mi_contrasena {
+    left: 355px;
+    top: 675px;
+    position: absolute;
+    overflow: visible;
+    width: 274px;
+    height: 33px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: #111111;
+    text-decoration: underline;
+}
+#Group_8 {
+    position: absolute;
+    width: 228px;
+    height: 66px;
+    left: 377px;
+    top: 543px;
+    overflow: visible;
+}
+#Rectangle_3_z {
+    fill: rgba(255,87,87,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_3_z {
+    position: absolute;
+    overflow: visible;
+    width: 228px;
+    height: 66px;
+    left: 0px;
+    top: 0px;
+}
+#Ingresar {
+    left: 66px;
+    top: 17px;
+    position: absolute;
+    overflow: visible;
+    width: 97px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Rectangle_24 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_24 {
+    position: absolute;
+    overflow: visible;
+    width: 449px;
+    height: 68px;
+    left: 267px;
+    top: 335px;
+}
+#Ingresa_tu_usuario {
+    opacity: 0.54;
+    left: 377px;
+    top: 353px;
+    position: absolute;
+    overflow: visible;
+    width: 233px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(17,17,17,1);
+}
+#Rectangle_25 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_25 {
+    position: absolute;
+    overflow: visible;
+    width: 449px;
+    height: 68px;
+    left: 267px;
+    top: 442px;
+}
+#Contrasea {
+    opacity: 0.54;
+    left: 425px;
+    top: 460px;
+    position: absolute;
+    overflow: visible;
+    width: 133px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(17,17,17,1);
+}
+#No_tengo_una_cuenta_registrame {
+    left: 278px;
+    top: 662px;
+    position: absolute;
+    overflow: visible;
+    width: 432px;
+    height: 50px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    text-decoration: underline;
+}
+#Group_10 {
+    position: absolute;
+    width: 1803px;
+    height: 113px;
+    left: 59px;
+    top: 928px;
+    overflow: visible;
+}
+#Rectangle_23 {
+    fill: rgba(93,34,90,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_23 {
+    position: absolute;
+    overflow: visible;
+    width: 1803px;
+    height: 113px;
+    left: 0px;
+    top: 0px;
+}
+#Icon_awesome-facebook-f {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-facebook-f {
+    overflow: visible;
+    position: absolute;
+    width: 19.281px;
+    height: 36px;
+    left: 1331.359px;
+    top: 38.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-twitter {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-twitter {
+    overflow: visible;
+    position: absolute;
+    width: 36px;
+    height: 29.239px;
+    left: 1401px;
+    top: 41.881px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-instagram {
+    fill: rgba(255,255,255,1);
+}
+.Icon_awesome-instagram {
+    overflow: visible;
+    position: absolute;
+    width: 41.641px;
+    height: 38.739px;
+    left: 1479.203px;
+    top: 41.881px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Icon_simple-gmail {
+    fill: rgba(255,255,255,1);
+}
+.Icon_simple-gmail {
+    overflow: visible;
+    position: absolute;
+    width: 36px;
+    height: 32.619px;
+    left: 1563.047px;
+    top: 43.381px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#n_022_Todos_los_derechos_reser {
+    left: 607px;
+    top: 37px;
+    position: absolute;
+    overflow: hidden;
+    width: 590px;
+    height: 39px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#Icon_simple-gmail_bd {
+    fill: rgba(255,255,255,1);
+}
+.Icon_simple-gmail_bd {
+    overflow: visible;
+    position: absolute;
+    width: 36px;
+    height: 27px;
+    left: 519px;
+    top: 897px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Canciones {
+    left: 1354px;
+    top: 60px;
+    position: absolute;
+    overflow: visible;
+    width: 119px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(17,17,17,1);
+}
+
